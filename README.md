@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm Yanxi (Can)
 
-I am a Mathematics undergraduate at the University of Shanghai for Science and Technology, building toward **Artificial Intelligence and Data Science** with a strong foundation in statistical modelling.
+I recently graduated from the University of Shanghai for Science and Technology with a BSc in Mathematics and Applied Mathematics. I am currently building toward **Artificial Intelligence and Data Science** with a strong foundation in statistical modelling.
 
 My core interest lies in the assumptions underneath AI methods—model evaluation, statistical inference, and understanding what a model's output actually licenses us to conclude.
 
