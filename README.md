@@ -1,16 +1,23 @@
-## Hi there 👋
+**English | [中文](./README.zh.md)**
 
-<!--
-**Can-lab503/Can-lab503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, I'm Yanxi (Can)
 
-Here are some ideas to get you started:
+I am a Mathematics undergraduate at the University of Shanghai for Science and Technology, building toward **Artificial Intelligence and Data Science** with a strong foundation in statistical modelling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My core interest lies in the assumptions underneath AI methods—model evaluation, statistical inference, and understanding what a model's output actually licenses us to conclude.
+
+#### 🔬 What I've been building
+*   🎓 **[Hypothesis Testing & Multivariate Analysis](https://github.com/Can-lab503?tab=repositories&q=hypothesis-testing)** - Chi-square, t, and F tests plus MANOVA on a 6,607-row dataset (SPSS). *Focus: Statistical inference and assumption checking.*
+*   🐍 **[Housing Price Data Analysis](https://github.com/Can-lab503?tab=repositories&q=housing-price)** - A Python pipeline covering missing-value handling, outlier detection, and correlation analysis. *Focus: EDA and feature engineering.*
+*   🌳 **[Production Decision Modeling](https://github.com/Can-lab503?tab=repositories&q=electronic-production)** - Cost-minimization in electronic production using Decision Trees and Beta-Binomial Bayesian updating. *Focus: Probabilistic modeling and algorithmic optimization.*
+*   📈 **[Appliance Industry Forecasting](https://github.com/Can-lab503?tab=repositories&q=appliance-industry)** - Regression and Neural-Network analysis combined with ARIMA forecasting. *Focus: Predictive modeling and time-series analysis.*
+
+#### 🛠️ Technical Skills
+- **Statistics & Modelling:** hypothesis testing (chi-square, t-test, MANOVA), multiple regression, ARIMA, probability distributions, decision trees
+- **Programming Languages:** Python (pandas, numpy, matplotlib), R, SQL, MATLAB
+- **Statistical & Analytical Software:** SPSS (MANOVA, regression), EViews
+- **Data Visualization & Tools:** Power BI, Excel (VLOOKUP, pivot tables), LaTeX
+
+#### 📫 How to reach me
+- **Email:** hyxswy0503@163.com 
+- *(Feel free to explore my pinned repositories below to see the code and analysis reports!)*
